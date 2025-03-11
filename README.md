@@ -11,9 +11,28 @@ News Reading Website version 1 hosted [HERE!](https://insight-stream-sandy.verce
 ### Documentation
 For detailed documentation, refer to [Project Documentation](https://drive.google.com/drive/folders/1t0gnvH7D-sjVLhV1hSYhhjpTfgHWXtm7?usp=sharing).
 
+### Documentation
+For detailed project Documentation , refer to [Documentation](https://drive.google.com/file/d/1bW_isYOl3OSa5Gkgy7F_2IGnXbZsulfm/view?usp=sharing).
+
 ### Demo video
 for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1E9jdqO-apcD5K3zTC0_RC44UezjWutei/view?usp=sharing).
 
+Team members:
+
+H.Sai rohith
+[Email](Sairohith250704@gmail.com)
+
+A.Bharath
+[Email](ba9452542@gmail.com)
+
+M.Bhuvaneshwaran
+[Email](mbhuvanesh023@gmail.com)
+
+C.Mohan Dass
+[Email](mohandass200513@gmail.com)
+
+S.Shyam Kumar
+[Email](shyam26092004@gmail.com)
 
 **Progress:**
 
