@@ -11,6 +11,9 @@ News Reading Website version 1 hosted [HERE!](https://insight-stream-sandy.verce
 ### Documentation
 For detailed documentation, refer to [Project Documentation](https://drive.google.com/drive/folders/1t0gnvH7D-sjVLhV1hSYhhjpTfgHWXtm7?usp=sharing).
 
+### Demo video
+for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1E9jdqO-apcD5K3zTC0_RC44UezjWutei/view?usp=sharing).
+
 
 **Progress:**
 
