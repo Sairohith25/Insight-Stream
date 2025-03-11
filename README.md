@@ -8,32 +8,33 @@ Project: News reading website with complete authentication made using React.js
 
 News Reading Website version 1 hosted [HERE!](https://insight-stream-sandy.vercel.app/)
 
+### Documentation
+For detailed documentation, refer to [Project Documentation](https://drive.google.com/drive/folders/1t0gnvH7D-sjVLhV1hSYhhjpTfgHWXtm7?usp=sharing).
+
+
 **Progress:**
 
 Version 1 completed and hosted
 
 Version 2 Progress: 50%
 
-This is a News Reading website which specialize in Daily news activities. The website provides Daily News Updates , Regular news in each categories , User friendly website .
+This is a News Reading website which specializes in daily news activities. The website provides daily news updates, regular news in each category, and a user-friendly experience.
 
-We have done this project and tried to manipulate dom elements, styling using css and tried to make website more dynamic and responsive. With my efforts and the technology stack that i have learned till Unit-4 in the Masai School, i am able to design the whole website with some functionalities & features.
-
+We have done this project and tried to manipulate DOM elements, style using CSS, and make the website more dynamic and responsive. With my efforts and the technology stack that I have learned till Unit-4 in the Masai School, I am able to design the whole website with some functionalities & features.
 
 # Technology Stack Used 🌟
 * HTML
 * React.js
 * CSS
-* js
-* News-api
+* JavaScript
+* News API
 
-
-
-For storing user data i used localStorage & JSON-Server.
+For storing user data, I used localStorage & JSON-Server.
 
 ### How to run the Project
 ### Install
 
-Follow the following steps to get development environment running.
+Follow the following steps to get the development environment running.
 
 * Clone repository from GitHub
 
@@ -53,7 +54,6 @@ Follow the following steps to get development environment running.
    npm install
    ```
 
-
 ### Starting front-end servers
 
 * Build application
@@ -61,4 +61,5 @@ Follow the following steps to get development environment running.
   ```bash
   npm start
   ```
----
+
+
